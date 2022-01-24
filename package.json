@@ -1,0 +1,22 @@
+{
+  "name": "javascript-fundamentals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinucar/Javascript-and-TDD-with-Jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinucar/Javascript-and-TDD-with-Jest/issues"
+  },
+  "homepage": "https://github.com/robinucar/Javascript-and-TDD-with-Jest#readme",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
