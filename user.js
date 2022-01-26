@@ -1,15 +1,15 @@
 class User {
-    constructor(name) {
-        this.name = name
-    }
+  constructor(name) {
+    this.name = name;
+  }
 
-    getName() {
-        return this.name
-    }
+  getName() {
+    return this.name;
+  }
 
-    getIntroduction() {
-        return `Hi, my name is ${this.name}`
-    }
+  getIntroduction() {
+    return `Hi, my name is ${this.name}`;
+  }
 }
 
-module.exports = User
+module.exports = User;
